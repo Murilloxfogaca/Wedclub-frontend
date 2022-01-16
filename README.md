@@ -6,3 +6,8 @@ A pedido da criação, esse projeto é apenas para a exibição da telas e de co
 Baseado na estrutura Houston Ui da Eduzz, o projeto também contêm já a estrutura para possível ligação com Api Rest
 
 #### Estrutura baseada: https://github.com/eduzz/mentoria-dio
+
+
+## Como rodar
+-- yarn install
+-- yarn start
